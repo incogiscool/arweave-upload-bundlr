@@ -1,4 +1,4 @@
-This project uses @bundlr-network/client dependancy. Please run npm install to install it.
+This project uses @bundlr-network/client dependency. Please run npm install to install it.
 
 To run this project, you must have:
 - NodeJS OR ts-node installed
